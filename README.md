@@ -18,8 +18,8 @@ Currently, there's only one tool, SUITUP
 
     $ lein run suitup MIN-POISE MAX-WEIGHT BODY-PART ...
 
-MIN-POISE and MAX-WEIGHT are floats; known body parts include `head',
-`torso', `legs', and `arms'.
+MIN-POISE and MAX-WEIGHT are floats; known body parts include *head*,
+*torso*, *legs*, and *arms*.
 A typical query might look like so:
 
     $ lein run suitup 36 24 torso legs arms >SUITS36
