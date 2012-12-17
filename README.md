@@ -3,6 +3,12 @@
 A collection of command-line tools which help you plan your Dark Souls
 character.
 
+The data set is taken from
+
+    http://www.raymondhill.net/darksouls/darksouls-armor-calc.php
+
+many thanks to him!
+
 ## Usage
 The syntax is
 
