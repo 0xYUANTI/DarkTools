@@ -1,4 +1,4 @@
-# darktools
+# DarkTools
 
 A collection of command-line tools which help you plan your Dark Souls
 character.
