@@ -16,7 +16,7 @@ The syntax is
 
 Currently, there's only one tool, SUITUP
 
-   $ lein run suitup MIN-POISE MAX-WEIGHT BODY-PART ...
+    $ lein run suitup MIN-POISE MAX-WEIGHT BODY-PART ...
 
 MIN-POISE and MAX-WEIGHT are floats; known body parts include `head',
 `torso', `legs', and `arms'.
